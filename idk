@@ -1,0 +1,66 @@
+<html>
+<head>
+    <title>Інформація про Minecraft</title>
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: yellow;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+        img {
+            width: 100px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>Інформація про Minecraft</h1>
+    <table>
+        <tr>
+            <th>Аспект</th>
+            <th>Опис</th>
+            <th>Зображення</th>
+        </tr>
+        <tr>
+            <td>Назва</td>
+            <td>Minecraft</td>
+            <td><img src="https://cdn.sanity.io/images/kts928pd/production/e1d61cc6d5f05c33c1cd0fbf96c51554671750ba-1140x620.png" ></td>
+        </tr>
+        <tr>
+            <td>Розробник</td>
+            <td>Mojang Studios</td>
+            <td><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Mojang_Studios_Logo_%282020%2C_full%29.png" ></td>
+        </tr>
+        <tr>
+            <td>Жанр</td>
+            <td>Пісочниця, виживання</td>
+        </tr>
+        <tr>
+            <td>Платформи</td>
+            <td>PC, консолі, мобільні пристрої</td>
+            <td><img src="https://activeplayer.io/wp-content/uploads/2022/07/is-minecraft-cross-platform.jpg" ></td>
+        </tr>
+        <tr>
+            <td>Режими гри</td>
+            <td>Одиночна гра, багатокористувацька гра</td>
+            <td><img src="" ></td>
+        </tr>
+        <tr>
+            <td>Дата випуску</td>
+            <td>18 листопада 2011 року</td>
+        </tr>
+        <tr>
+            <td>Опис</td>
+            <td>Minecraft - це гра, де гравці можуть будувати та досліджувати світ, створений з блоків. Гра включає різні режими, такі як виживання, творчість та пригоди.</td>
+        </tr>
+    </table>
+</body>
+</html>
